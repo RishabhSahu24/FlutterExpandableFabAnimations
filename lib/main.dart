@@ -44,7 +44,7 @@ class _AnimatedButtonsState extends State<AnimatedButtons>
     return Scaffold(
       backgroundColor: const Color(0xffE5E5E5),
       appBar: AppBar(
-        title: const Text('Animated Container Example'),
+        title: const Text('Expandable Fab Animations'),
       ),
       body: Center(
         child: SizedBox(
